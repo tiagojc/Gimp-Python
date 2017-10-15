@@ -1,0 +1,10 @@
+O arquivo .py deve ser colocado na pasta de plugins da sua versão do GIMP.
+Na versãp 2.8.16 a pasta é a GIMP2\lib\gimp\2.0\plug-in
+
+A biblioteca PIL (Python Image Library) deve ser instalada.
+A instalação da biblioteca deve ser feita nas pastas de recurso do GIMP.
+
+Na versão 2.8.16 a biblioteca deve ser instalada na pasta \GIMP 2\Python.
+
+A recomendação é utilizar um executável para realizar a instalação da PIL.
+Voce pode baixar o executável em http://www.pythonware.com/products/pil/#pil117
